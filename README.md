@@ -3,11 +3,9 @@
 A report card sumarizing the most relevant variables in a conflict forecast prediction project for the FCDO. The central problem is to predict which historically peaceful countries are at risk of conflict outbreak in the next 36 months. We use a variety of data sources and ML methods to generate our list. Some reports cards of countries on this list are included in this repository.
 
 ## How to read the country risk profile report card
-
-![The different figures in the report card.](dashboard_explainer.png)
-
-
-*The different figures in the report card.*
+<p align="center">
+<img src="dashboard_explainer.png" alt="dashboard_explainer" width="300"/>
+</p>
 
 ### Title
 
