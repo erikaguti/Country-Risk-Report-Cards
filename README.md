@@ -5,6 +5,8 @@ A report card sumarizing the most relevant variables in a conflict forecast pred
 ## How to read the country risk profile report card
 
 ![The different figures in the report card.](dashboard_explainer.png)
+
+
 *The different figures in the report card.*
 
 ### Title
